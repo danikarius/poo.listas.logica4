@@ -9,7 +9,7 @@ public class Lista4Application {
 	public static void main(String[] args) throws InterruptedException {
 		SpringApplication.run(Lista4Application.class, args);
 		
-		Exercicio1.resolucao4();
+		Exercicio5.resolucao();
 	}
 	
 }
